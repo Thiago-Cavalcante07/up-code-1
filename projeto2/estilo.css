@@ -1,0 +1,68 @@
+body {
+    background: #00BFFF;
+    font: normal 15pt arial;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    background: #0054a6;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 10px 10px 10px rgb(187, 196, 179);
+}
+
+footer {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-style: italic;
+}
+
+fieldset {
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.438);
+}
+
+input {
+    background: rgb(238, 233, 233);
+    border-radius: 10px;
+    color: rgb(15, 15, 15);
+    
+}
+
+input#email {
+    padding-left: 11px;
+}
+
+input#senha {
+    padding-right: 10px;
+}
+
+label {
+    color: rgb(10, 10, 10);
+}
+
+a {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+a {
+    color: black;
+}
+
+div#enter {
+    padding-left: 50px;
+}
+
+form {
+    text-align: center;
+    text-underline-position: initial;
+}
